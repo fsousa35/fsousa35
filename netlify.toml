@@ -1,0 +1,17 @@
+[[redirects]]
+  from = "https://www.bombeiroslecadobalio.pt/*"
+  to = "https://bombeiroslecadobalio.pt/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://bvlecadobalio.com/*"
+  to = "https://bombeiroslecadobalio.pt/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.bvlecadobalio.com/*"
+  to = "https://bombeiroslecadobalio.pt/:splat"
+  status = 301
+  force = true
